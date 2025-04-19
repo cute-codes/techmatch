@@ -48,12 +48,12 @@ Edit the layout in index.css and tweak animations
 Feel free to remix and add your own flair! 💖
 
 📚 Credits 
-Big thanks to [Scrimba](https://scrimba.com/) for the original "TinDog" project, which this app is inspired by. While the project started with their basic layout and a sample data file, the idea, theme, content, and functionality of TechMatch are my own creation.
+Big thanks to [Scrimba](https://scrimba.com/) for the original "TinDog" project idea, which this app is inspired by. While the project started with their basic layout and a sample data file, the idea, theme, content, and functionality of TechMatch are my own creation.
 
 ⚖️ License
 This project is open source and available under the MIT License.
 Feel free to use, adapt, or remix it for your own learning or projects — just give credit where it’s due. ✨
 
 👩🏽‍💻 About Me
-Hi! I’m YourName — a software engineer who loves creating cool things in tech. 
-Connect with me on [LinkedIn] (https://www.linkedin.com/) and share what you're building! 🛠💖
+Hi! I’m Sakeena — a software engineer who loves creating cool things in tech (like this app - TechMatch). 
+Follow along for more creative dev projects, or connect with me on [LinkedIn](https://www.linkedin.com/in/sakeenarashid/)
