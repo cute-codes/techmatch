@@ -32,6 +32,7 @@ git clone https://github.com/yourusername/techmatch.git
 cd techmatch
 npm install
 npm run dev
+```
 Or just fork it and start customizing!
 
 🛠 Customize It Yourself
